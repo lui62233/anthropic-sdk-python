@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.94.0 (2026-04-09)
+
+Full Changelog: [v0.93.0...v0.94.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.93.0...v0.94.0)
+
+### Features
+
+* vertex eu region ([#1658](https://github.com/anthropics/anthropic-sdk-python/issues/1658)) ([b7e157d](https://github.com/anthropics/anthropic-sdk-python/commit/b7e157d85f50b2900ddf896e8e80882dd7311bfd))
+
 ## 0.93.0 (2026-04-09)
 
 Full Changelog: [v0.92.0...v0.93.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.92.0...v0.93.0)
